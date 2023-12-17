@@ -3,6 +3,8 @@
 Website with [last.fm](https://www.last.fm/api) api usage.
 ## Demo
 
+[Demo](http://tczdev.temp.swtest.ru/) (browser kinda scary this page, i think its becoz its free hosting)
+
 // todo!
 ## Technical Assignment
 
