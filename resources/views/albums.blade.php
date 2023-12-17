@@ -25,7 +25,7 @@
 </div>
 
 <nav aria-label="Page navigation">
-  @if($currentPage != $lastPage && $currentPage < 2)
+  @if($currentPage != $lastPage && $currentPage > 1)
     <ul class="pagination justify-content-center">
       @if($currentPage > 1)
         <li class="page-item">
